@@ -53,7 +53,7 @@ Berikut adalah rincian pekerjaan analis data teratas di tahun 2023:
 - **Perusahaan yang Beragam**: Perusahaan seperti SmartAsset, Meta, dan AT&T termasuk di antara mereka yang menawarkan gaji tinggi, menunjukkan minat yang luas di berbagai industri.
 - **Variasi Jabatan Pekerjaan**: Ada keragaman yang tinggi dalam jabatan pekerjaan, dari Analis Data hingga Direktur Analisis, yang mencerminkan beragam peran dan spesialisasi dalam analisis data.
 
-![Top 10 Gaji Tertinggi](picture\Top_average_salaries_for_data_analyst_in_2023.png)
+![Top_average_salaries_for_data_analyst_in_2023](picture\Top_average_salaries_for_data_analyst_in_2023.png)
 *Grafik Top 10 rerata Gaji pertahun tertinggi untuk Data Analisis*
 
 ### 2. Skill Untuk Pekerjaan Dengan Gaji Tertinggi
@@ -94,7 +94,7 @@ Berikut adalah rincian keterampilan yang paling dibutuhkan untuk 10 pekerjaan Da
 - **Python** Posisi kedua adalah Python denga 7 pencarian
 - **Tablue** Juga termasuk dengan yang banyak di cari di angka 6 
 
-![Top 10 Skill Terbanyak Dibutuhkan](picture\Top_Required_skills_for_data_analyst_in_2023.png)
+![Top_Required_skills_for_data_analyst_in_2023](picture\Top_Required_skills_for_data_analyst_in_2023.png)
 *Grafik Top 10 Skill yang banyak dibutuhkan Data Analisis*
 
 
